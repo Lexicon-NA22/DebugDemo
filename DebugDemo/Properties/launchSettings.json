@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DebugDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "Katt Hund Bil Klocka"
+    }
+  }
+}
